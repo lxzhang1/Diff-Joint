@@ -14,4 +14,17 @@ We will release the implementation, running scripts, and reproduction instructio
 
 ## Citation
 
-Citation information will be added soon.
+If you find this repository useful in your research, please cite:
+
+```bibtex
+@misc{zhang2026diffjoint,
+      title={Learning What Not to Impute: An Uncertainty-Aware Diffusion Framework for Meaningful Missingness}, 
+      author={Lixing Zhang and Yidong Ouyang and Weifu Li and Shixiang Zhu and Guang Cheng and Liyan Xie},
+      year={2026},
+      eprint={2606.05073},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2606.05073}, 
+}
+```
+
